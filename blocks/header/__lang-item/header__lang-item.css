@@ -1,0 +1,9 @@
+.header__lang-item {
+  margin-right: 18px;
+  max-width: 30px;
+  max-height: 28px;
+}
+
+.header__lang-item:nth-last-child(1) {
+  margin-right: 0;
+}
