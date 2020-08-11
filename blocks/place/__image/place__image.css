@@ -1,23 +1,22 @@
-.places {
-  margin: 92px auto;
-  max-width: 984px;
+.place__image {
+  width: 100%;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
-  .places {
-    max-width: 928px;
+  .place__image {
+    width: 100%;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .places {
-    max-width: 720px;
+  .place__image {
+    width: 100%;
+    margin-bottom: 102px;
   }
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
-  .places {
-    max-width: 320px;
-    max-height: 4786px;
+  .place__image {
+    width: 100%;
   }
 }
