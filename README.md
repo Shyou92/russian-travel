@@ -8,3 +8,6 @@
 - Adaptive Layout;
 
 В дальнейшем, в проект будет добавляться информация о путешествиях по России, а так же добавлен JavaScript.
+
+
+Ссылка проекта: https://github.com/Shyou92/russian-travel
