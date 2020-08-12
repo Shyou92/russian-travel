@@ -1,0 +1,15 @@
+.footer__list-link {
+  max-width: 94px;
+  text-decoration: none;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+
+.footer__list-link:hover {
+  opacity: .4;
+  transition: 1s;
+}
