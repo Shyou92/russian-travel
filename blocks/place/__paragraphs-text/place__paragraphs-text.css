@@ -1,6 +1,5 @@
-.paragraphs__text {
+.place__paragraphs-text {
   margin: 0 0 24px;
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -8,12 +7,12 @@
   color: #FFFFFF;
 }
 
-.paragraphs__text:nth-last-child(1) {
+.place__paragraphs-text:nth-last-child(1) {
   margin-bottom: 0;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .paragraphs__text {
+  .place__paragraphs-text {
     font-size: 16px;
   }
 }

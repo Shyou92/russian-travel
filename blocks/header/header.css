@@ -3,6 +3,7 @@
   margin: 28px 0 0 48px;
   display: flex;
   justify-content: space-between;
+  font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {

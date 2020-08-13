@@ -3,6 +3,10 @@
   max-width: 640px;
   font-size: 30px;
   line-height: 36px;
+  font-style: normal;
+  font-weight: normal;
+  text-align: center;
+  color: #FFFFFF;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {

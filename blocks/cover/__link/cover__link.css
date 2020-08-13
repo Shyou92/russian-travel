@@ -9,10 +9,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgba(0,0,0, 0.2)
+  background-color: rgba(0,0,0, 0.3)
 }
 
 .cover__link:hover {
-  background-color: rgba(0,0,0, 0.5);
-  transition: background 0.3s;
+  background-color: rgba(0,0,0, 0.8);
+  transition: background 1s;
 }
