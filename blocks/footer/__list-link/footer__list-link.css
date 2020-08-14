@@ -12,3 +12,10 @@
   opacity: .4;
   transition: 1s;
 }
+
+@media screen and (max-width: 767px) {
+  .footer__list-link{
+    font-size: 24px;
+    line-height: 24px;
+  }  
+}
