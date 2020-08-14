@@ -7,7 +7,7 @@
 - CSS Grid;
 - Adaptive Layout;
 
-В дальнейшем, в проект будет добавляться информация о путешествиях по России, а так же добавлен JavaScript.
+В дальнейшем, в проект будет добавляться информация о путешествиях по России, а так же JavaScript.
 
 
-Ссылка проекта: https://github.com/Shyou92/russian-travel
+Ссылка проекта: https://shyou92.github.io/russian-travel/
